@@ -4,7 +4,7 @@ import mapboxgl from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 import style from "./mapbox/style.json";
 
-mapboxgl.accessToken = "";
+mapboxgl.accessToken = "pk.eyJ1IjoiZGF0YXNmIiwiYSI6ImNsYzZ6NTd2ZjBqb2QzdW5hbWZpNDlndWcifQ.upsSGO0UdiE5iKumDRLauA";
 
 const mapContainer = ref();
 
